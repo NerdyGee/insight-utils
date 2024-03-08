@@ -1,0 +1,23 @@
+{
+  "name": "insight-utils",
+  "version": "1.0.0",
+  "description": "A set of utility functions for my future projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NerdyGee/insight-utils"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Ogunleye Qudus Adeoniye",
+  "license": "ISC",
+  "dependencies": {
+    "npm-eth-address-checker": "^1.0.2",
+    "shawnkelz-utils": "^1.0.3",
+    "uuid": "^9.0.1"
+  }
+}
